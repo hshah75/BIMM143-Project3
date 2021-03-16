@@ -40,14 +40,13 @@ Before running the code below, in the console I needed to install the packages u
 
 ```{r}
 install.packages("norm")
-# all other packages are already installed in R
+# all packages are already installed in R
 
 library(base)
 library(norm)
 library(stats)
 library(graphics)
 
-# 3 points for loading all of the packages needed correctly
 ```
 
 _____________________________________________________________________________________
